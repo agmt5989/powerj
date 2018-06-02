@@ -1,0 +1,11 @@
+        <h1>
+        {/* {this.state.show ? 'Pet' : null}  */}
+        { showTitle } { this.state.title }</h1>
+        <ul style={displayList}>
+          <li>Titilope 14:30</li>
+          <li>Akinbiyi 08:20</li>
+          <li>Michael 15:50</li>
+          <li>Tomilola 04:52</li>
+          <li>Ayodeji 20:00</li>
+          <li>Aderonke 09:09</li>
+        </ul>

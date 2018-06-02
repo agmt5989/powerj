@@ -1,0 +1,182 @@
+[
+    {
+		"q" : "Change $71_{10}$ to base $8$",
+		"options" : {
+			"A" : "$107_8$",
+			"B" : "$106_8$",
+			"C" : "$71_8$",
+			"D" : "$17_8$"
+		},
+		"answer" : "B",
+		"topic" : "Bases",
+		"ease" : "2",
+		"source" : "utme 1993",
+		"explanation" : 
+			"Mass number = 238 \n Atomic number === number of protons = 92 \n Number of neutrons = number of protons – mass number \n = 238 – 92 \n = 146"
+	},
+    {
+		"q" : "Evaluate $3524 \\over 0.05$ correct to 3 significant figures",
+		"options" : {
+			"A" : "$705$",
+			"B" : "$70,000$",
+			"C" : "$70,480$",
+			"D" : "$70,500$"
+		},
+		"answer" : "B",
+		"topic" : "Bases",
+		"ease" : "2",
+		"source" : "utme 1993",
+		"explanation" : 
+			"Mass number = 238 \n Atomic number === number of protons = 92 \n Number of neutrons = number of protons – mass number \n = 238 – 92 \n = 146"
+	},
+    {
+		"q" : "If ${9^ {\\left({{x}-{1 \\over 2}}\\right)}} = 3^{x^2}$, find the value of $x$",
+		"options" : {
+			"A" : "$1 \\over 2$",
+			"B" : "$1$",
+			"C" : "$2$",
+			"D" : "$3$"
+		},
+		"answer" : "B",
+		"topic" : "Bases",
+		"ease" : "3",
+		"source" : "utme 1993",
+		"explanation" : 
+			"Mass number = 238 \n Atomic number === number of protons = 92 \n Number of neutrons = number of protons – mass number \n = 238 – 92 \n = 146"
+	},
+    {
+		"q" : "Solve for $y$ in the equation $$10^y\\times5^{(2y-2)}\\times4^{(y-1)} = 1$$",
+		"options" : {
+			"A" : "$3\\over4$",
+			"B" : "$2\\over3$",
+			"C" : "$1$",
+			"D" : "$5\\over4$"
+		},
+		"answer" : "B",
+		"topic" : "Bases",
+		"ease" : "3",
+		"source" : "utme 1993",
+		"explanation" : 
+			"Mass number = 238 \n Atomic number === number of protons = 92 \n Number of neutrons = number of protons – mass number \n = 238 – 92 \n = 146"
+	},
+    {
+		"q" : "Simplify $${1\\over{\\sqrt{3}-2}} - {1\\over{\\sqrt{3}+2}}$$",
+		"options" : {
+			"A" : "$4$",
+			"B" : "$2\\over\\sqrt{3}$",
+			"C" : "$0$",
+			"D" : "$-4$"
+		},
+		"answer" : "B",
+		"topic" : "Bases",
+		"ease" : "2",
+		"source" : "utme 1993",
+		"explanation" : 
+			"Mass number = 238 \n Atomic number === number of protons = 92 \n Number of neutrons = number of protons – mass number \n = 238 – 92 \n = 146"
+	},
+    {
+		"q" : "If $2\\log_{3}y+\\log_{3}x^{2}=4$, then $y$ is",
+		"options" : {
+			"A" : "${4-\\log_3x^2}\\over2$",
+			"B" : "$4\\over{\\log_3x^2}$",
+			"C" : "$2 \\over x$",
+			"D" : "$9 \\over x$"
+		},
+		"answer" : "B",
+		"topic" : "Bases",
+		"ease" : "2",
+		"source" : "utme 1993",
+		"explanation" : 
+			"Mass number = 238 \n Atomic number === number of protons = 92 \n Number of neutrons = number of protons – mass number \n = 238 – 92 \n = 146"
+	},
+    {
+		"q" : "Solve without using tables $\\log_5(62.5) - \\log_5\\left(1 \\over 2\\right)$",
+		"options" : {
+			"A" : "$3$",
+			"B" : "$4$",
+			"C" : "$5$",
+			"D" : "$8$"
+		},
+		"answer" : "B",
+		"topic" : "Bases",
+		"ease" : "2",
+		"source" : "utme 1993",
+		"explanation" : 
+			"Mass number = 238 \n Atomic number === number of protons = 92 \n Number of neutrons = number of protons – mass number \n = 238 – 92 \n = 146"
+	},
+    {
+		"q" : "If $N225.00$ yields $N27.00$ in $x$ years without simple interest, find $x$",
+		"options" : {
+			"A" : "$3$",
+			"B" : "$4$",
+			"C" : "$12$",
+			"D" : "$27$"
+		},
+		"answer" : "B",
+		"topic" : "Bases",
+		"ease" : "2",
+		"source" : "utme 1993",
+		"explanation" : 
+			"Mass number = 238 \n Atomic number === number of protons = 92 \n Number of neutrons = number of protons – mass number \n = 238 – 92 \n = 146"
+	},
+    {
+		"q" : "Change $71_{10}$ to base 8",
+		"options" : {
+			"A" : "$107_8$",
+			"B" : "$106_8$",
+			"C" : "$71_8$",
+			"D" : "$17_8$"
+		},
+		"answer" : "B",
+		"topic" : "Bases",
+		"ease" : "2",
+		"source" : "utme 1993",
+		"explanation" : 
+			"Mass number = 238 \n Atomic number === number of protons = 92 \n Number of neutrons = number of protons – mass number \n = 238 – 92 \n = 146"
+	},
+    {
+		"q" : "If $\\sqrt{x^2+9} = x+1$, solve for $x$",
+		"options" : {
+			"A" : "$5$",
+			"B" : "$4$",
+			"C" : "$3$",
+			"D" : "$1$"
+		},
+		"answer" : "B",
+		"topic" : "Bases",
+		"ease" : "2",
+		"source" : "utme 1993",
+		"explanation" : 
+			"Mass number = 238 \n Atomic number === number of protons = 92 \n Number of neutrons = number of protons – mass number \n = 238 – 92 \n = 146"
+	},
+    {
+		"q" : "Make $x$ the subject of the relation $${{1+ax} \\over {1-ax}} = {p \\over q}$$",
+		"options" : {
+			"A" : "${p+q}\\over{a(p+q)}$",
+			"B" : "${p-q}\\over{a(p+q)}$",
+			"C" : "${p+q}\\over{apq}$",
+			"D" : "${pq}\\over{a(p-q)}$"
+		},
+		"answer" : "B",
+		"topic" : "Bases",
+		"ease" : "2",
+		"source" : "utme 1993",
+		"explanation" : 
+			"Mass number = 238 \n Atomic number === number of protons = 92 \n Number of neutrons = number of protons – mass number \n = 238 – 92 \n = 146"
+	},
+    {
+		"q" : "Change $71_{10}$ to base 8",
+		"options" : {
+			"A" : "$107_8$",
+			"B" : "$106_8$",
+			"C" : "$71_8$",
+			"D" : "$17_8$"
+		},
+		"answer" : "B",
+		"topic" : "Bases",
+		"ease" : "2",
+		"source" : "utme 1993",
+		"explanation" : 
+			"Mass number = 238 \n Atomic number === number of protons = 92 \n Number of neutrons = number of protons – mass number \n = 238 – 92 \n = 146"
+	}
+]
