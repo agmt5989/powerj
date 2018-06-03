@@ -6,13 +6,17 @@
   <title>Building an Interface with React</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style.css">
+	<script type="text/x-mathjax-config">
+		MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+	</script>
+	<script src="js/MathJax.js?config=TeX-AMS-SVG"></script>
 </head>
 <body>
   <header>
     <nav class="navbar navbar-default" role="navigation">
       <div class="container">
         <div class="navbar-header">
-          <a class="navbar-brand" href="#"><h1>Wisdom Pet Medicine</h1></a>
+          <a class="navbar-brand" href="#"><h1>PowerJAMB</h1></a>
         </div><!-- navbar-header -->
       </div><!-- container -->
     </nav>
@@ -23,6 +27,9 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-12">
+            <div id="petAppointments"></div>
+            
+            <div id="ourMath"></div>
           </div>
         </div>
       </div><!-- container -->
@@ -48,5 +55,6 @@
   </footer>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script src="js/app.js"></script>
 </body>
 </html>
